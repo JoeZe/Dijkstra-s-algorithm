@@ -1,0 +1,70 @@
+sourceNode 5
+toDoAry 1 1 1 1 0 1 1 0 
+bestCostAry 99999 10 99999 99999 0 15 99999 3 
+fatherAry 5 5 5 5 5 5 5 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 1 1 0 
+bestCostAry 9 10 99999 99999 0 15 99999 3 
+fatherAry 8 5 5 5 5 5 5 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 1 1 0 
+bestCostAry 9 10 99999 99999 0 10 99999 3 
+fatherAry 8 5 5 5 5 8 5 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 1 1 0 
+bestCostAry 9 10 99999 99999 0 10 5 3 
+fatherAry 8 5 5 5 5 8 8 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 1 0 0 
+bestCostAry 9 10 99999 99999 0 10 5 3 
+fatherAry 8 5 5 5 5 8 8 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 1 0 0 
+bestCostAry 9 10 99999 9 0 10 5 3 
+fatherAry 8 5 5 7 5 8 8 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 1 0 0 
+bestCostAry 9 10 99999 9 0 8 5 3 
+fatherAry 8 5 5 7 5 7 8 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 0 0 0 
+bestCostAry 9 10 99999 9 0 8 5 3 
+fatherAry 8 5 5 7 5 7 8 5 
+
+sourceNode 5
+toDoAry 1 1 1 1 0 0 0 0 
+bestCostAry 9 10 28 9 0 8 5 3 
+fatherAry 8 5 6 7 5 7 8 5 
+
+sourceNode 5
+toDoAry 0 1 1 1 0 0 0 0 
+bestCostAry 9 10 28 9 0 8 5 3 
+fatherAry 8 5 6 7 5 7 8 5 
+
+sourceNode 5
+toDoAry 0 1 1 1 0 0 0 0 
+bestCostAry 9 10 14 9 0 8 5 3 
+fatherAry 8 5 1 7 5 7 8 5 
+
+sourceNode 5
+toDoAry 0 1 1 0 0 0 0 0 
+bestCostAry 9 10 14 9 0 8 5 3 
+fatherAry 8 5 1 7 5 7 8 5 
+
+sourceNode 5
+toDoAry 0 0 1 0 0 0 0 0 
+bestCostAry 9 10 14 9 0 8 5 3 
+fatherAry 8 5 1 7 5 7 8 5 
+
+sourceNode 5
+toDoAry 0 0 0 0 0 0 0 0 
+bestCostAry 9 10 14 9 0 8 5 3 
+fatherAry 8 5 1 7 5 7 8 5 
+
